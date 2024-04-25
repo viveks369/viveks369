@@ -51,6 +51,9 @@
 </p>
 
 <h3 align="left">Support:</h3>
+<p><img align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=viveksatpute455001&show_icons=true&locale=en&layout=compact"
+        alt="_blank" /></p><br><br>
 <p><a href="https://www.buymeacoffee.com/viveksatpute369"> <img align="left"
             src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"
             alt="_blank" /></a></p>
