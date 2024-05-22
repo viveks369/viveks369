@@ -1,4 +1,4 @@
-[![MasterHead](https://upload.canva.com/BAEmcbyrS60/MAGDT5c8rNw.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJWF6QO3UH4PAAJ6Q%2F20240424%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240424T022712Z&X-Amz-Expires=27323&X-Amz-Signature=edff9cbbbacc5e22b05037bc5009983e94dab744f81880a684978009e6e77cbd&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27Black%2520And%2520Grey%2520Professional%2520Technology%2520LinkedIn%2520Banner.png&response-expires=Wed%2C%2024%20Apr%202024%2010%3A02%3A35%20GMT&version=fVeniXZbDx9urtPUqQiszBmRMxsJgt1T)](https://viveksatpute455001.io)
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/portfolio-ce204.appspot.com/o/banner.png?alt=media&token=f587c9c9-d3e3-4ea5-9ef8-0f79d1bba4b4)](https://viveksatpute455001.github.io)
 
 <h1 align="center">Hi 👋, I'm Vivek</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
