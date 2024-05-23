@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Vivek</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 👨‍💻 Portfolio available at [viveksatpute455001.github.io](https://portfolio-ce204.web.app/)
+- 👨‍💻 Portfolio available at [viveksatpute455001.github.io](https://bit.ly/3CHY0Fj)
 
 - ⚡ Fun fact **Can code with eyes closed.**
 
