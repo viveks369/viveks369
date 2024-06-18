@@ -1,5 +1,3 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/portfolio-ce204.appspot.com/o/banner.png?alt=media&token=f587c9c9-d3e3-4ea5-9ef8-0f79d1bba4b4)](https://viveksatpute455001.github.io)
-
 <h1 align="center">Hi 👋, I'm Vivek</h1>
 <h3 align="center">A passionate developer from India</h3>
 
