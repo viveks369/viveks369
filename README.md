@@ -33,7 +33,9 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
             alt="typescript" width="40" height="40" /> </a> 
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/viveksatpute369"> <img align="left"
-            src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"
-            alt="_blank" /></a></p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+    <a href="mailto:viveksatpute455001@gmail.com" target="blank"><img align="center"
+            src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="viveksatpute455001@gmail.com"
+            height="30" width="40" /></a>
+</p>
