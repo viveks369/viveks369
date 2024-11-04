@@ -16,7 +16,9 @@ docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.gith
 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /></a>
 
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" /> </a>
+<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
+
+<!--a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" /> </a-->
 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /> </a> 
 
@@ -24,7 +26,5 @@ docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.gith
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="mailto:viveksatpute455001@gmail.com" target="blank"><img align="center"
-          src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="viveksatpute455001@gmail.com"
-            height="30" width="40" /></a>
+   <a href="https://linkedin.com/in/viveksatpute369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viveksatpute369" height="30" width="40" /></a>
 </p>
