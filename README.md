@@ -2,7 +2,9 @@
 
 <p align="left">🫂 Looking for collaborations on open-source projects</p>
 <p align="left">Reach me at: <a href="mailto:viveksatpute455001@gmail.com">viveksatpute455001@gmail.com</a></p>
+
 ---
+
 ## <p align="center">Languages and Tools I Work With</p>
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
