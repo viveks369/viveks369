@@ -5,7 +5,8 @@
 
 ---
 
-## <p align="left">Languages and Tools I Work With</p>
+## <p align="left">💻 Technologies</p>
+<p align="left">Languages and Tools I Work With</p>
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
