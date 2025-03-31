@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Vivek</h1>
-<h3 align="center">Crafting Code, One Line at a Time</h3>
+<h1 align="center">Hi, I'm Vivek 👋</h1>
 
-## 🔹 Skills  
+<p align="center">Turning complex problems into seamless solutions.</p>
+<p align="center">Reach me at: xyz@gmail.com</p>
+
+## 🔹 Languages and Tools I Work With  
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
@@ -23,12 +25,5 @@
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-</p>
-
-## 🔹 Connect with Me  
-<p align="left">
-  <a href="https://linkedin.com/in/viveksatpute369" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
   </a>
 </p>
