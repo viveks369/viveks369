@@ -40,4 +40,5 @@
 
 <p align="left">Profile Stats</p>
 <p align="center" dir="auto">
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viveksatpute369&show_icons=true&locale=en" alt="viveksatpute369" /></p>
 </p>
