@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Vivek 👋</h1>
 
 <p align="center">Turning complex problems into seamless solutions.</p>
-<p align="center">Reach me at: xyz@gmail.com</p>
+<p align="center">Reach me at: <a href="mailto:viveksatpute455001@gmail.com">viveksatpute455001@gmail.com</a></p>
 
 ## 🔹 Languages and Tools I Work With  
 <p align="left">
