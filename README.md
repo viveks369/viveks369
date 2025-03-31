@@ -40,5 +40,5 @@
 
 <p align="left">Profile Stats</p>
 <p align="center" dir="auto">
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viveksatpute369&show_icons=true&locale=en" alt="viveksatpute369" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viveksatpute369&show_icons=true&locale=en" alt="viveksatpute369" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=viveksatpute369&amp;layout=compact&amp;theme=tokyonight&amp;hide=jupyter%20notebook&amp;size_weight=0.5&amp;count_weight=0.5"/></p>
 </p>
