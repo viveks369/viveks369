@@ -6,9 +6,9 @@
     style="width:24px; height:24px; vertical-align:middle;">
 </h1>
 
-<p align="left">☕︎ C# developer working with .NET — I enjoy writing clean, maintainable code.</p>
-<p align="left">🚀 Always exploring real-world challenges and contributing to open source solutions.</p>
-<p align="left">📫 Let’s connect: <a href="mailto:viveksatpute455001@gmail.com">viveksatpute455001@gmail.com</a></p>
+<p align="left">☕️ I'm a C# developer working with .NET, focused on writing clean and maintainable code.</p>
+<p align="left">🚀 Passionate about solving real-world problems and contributing to open source projects.</p>
+<p align="left">📫 Let's connect: <a href="mailto:viveksatpute455001@gmail.com">viveksatpute455001@gmail.com</a></p>
 
 ---
 
