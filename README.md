@@ -1,4 +1,10 @@
-<h1 align="left">Hey, I'm Vivek <img data-target="animated-image.replacedImage" alt="214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" class="AnimatedImagePlayer-animatedImage" src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" style="display: block; opacity: 1;width:50;height:50;"></h1>
+<h1 align="left">
+  Hey, I'm Vivek 
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" 
+    alt="waving hand" 
+    style="width:24px; height:24px; vertical-align:middle;">
+</h1>
 
 <p align="left">☕︎ C# developer working with .NET — I enjoy writing clean, maintainable code.</p>
 <p align="left">🚀 Always exploring real-world challenges and contributing to open source solutions.</p>
