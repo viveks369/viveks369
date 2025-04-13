@@ -1,7 +1,7 @@
 <h1 align="left">Hey, I'm Vivek 👨‍💻</h1>
 
 <p align="left">☕︎ C# developer working with .NET — I enjoy writing clean, maintainable code.</p>
-<p align="left">🚀 Always building, always learning — open to collabs on robust, real-world projects.</p>
+<p align="left">🚀 Open source supporter with a passion for practical, meaningful code.</p>
 <p align="left">📫 Let’s connect: <a href="mailto:viveksatpute455001@gmail.com">viveksatpute455001@gmail.com</a></p>
 
 ---
