@@ -1,7 +1,8 @@
-<h1 align="left">Hi, I'm Vivek 👋</h1>
+<h1 align="left">Hey, I'm Vivek 👨‍💻</h1>
 
-<p align="left">🫂 Looking for collaborations on open-source projects</p>
-<p align="left">Reach me at: <a href="mailto:viveksatpute455001@gmail.com">viveksatpute455001@gmail.com</a></p>
+<p align="left">🔧 C# craftsman | .NET ninja | Turning coffee into clean code.</p>
+<p align="left">🚀 Always building, always learning — open to collabs on robust, real-world projects.</p>
+<p align="left">📫 Let’s connect: <a href="mailto:viveksatpute455001@gmail.com">viveksatpute455001@gmail.com</a></p>
 
 ---
 
